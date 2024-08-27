@@ -18,4 +18,5 @@ O +PraTi é um movimento social sem fins lucrativos dedicado a identificar e cap
 
 ![Website](https://i.imgur.com/sfE08x7.png) - [Website](https://www.maisprati.com.br/)
 
+![LinkedIn](https://i.imgur.com/JS0zkAc.png) - [LinkedIn](https://www.linkedin.com/company/maisprati/)
 
