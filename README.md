@@ -10,6 +10,7 @@ O +PraTi é um movimento social sem fins lucrativos dedicado a identificar e cap
 
 
 ![Instagram](https://i.imgur.com/7GXXik6.png) 
+
 [Instagram](https://www.instagram.com/maisprati/)
 
 
