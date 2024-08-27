@@ -2,6 +2,8 @@
 
 ![MaisPraTI](https://media.licdn.com/dms/image/v2/C4D1BAQE-hgWmZw6vMQ/company-background_10000/company-background_10000/0/1594408985136/maisprati_cover?e=2147483647&v=beta&t=O6ZZa3jETSjW2xJveLKOoowLAMpnPwwJLePTvaOoYVw)
 
+------------------------------------------------------------------
+
 
 Trilha Programador FullStack (Java) - +PraTi e Codifica - Turma 2
 
