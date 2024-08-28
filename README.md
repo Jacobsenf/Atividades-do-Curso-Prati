@@ -5,7 +5,7 @@
 ------------------------------------------------------------------
 
 
-### Trilha Desenvolvedor FullStack - +PraTi e Codifica - Turma 2
+### Trilha Desenvolvedor FullStack (Javascript) - +PraTi e Codifica - Turma 2
 
 
 O +PraTi é um movimento social sem fins lucrativos dedicado a identificar e capacitar novos talentos na área de Tecnologia da Informação (TI), com o objetivo de criar novas oportunidades econômicas e transformar a percepção da tecnologia na sociedade.
