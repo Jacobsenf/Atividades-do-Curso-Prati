@@ -22,6 +22,7 @@ O +PraTi é um movimento social sem fins lucrativos dedicado a identificar e cap
 
 # Instruções de uso
 
+Para executar os exercícios, alguns pré requisitos serão necessários. 
 
 ### Pré Requisitos
 
