@@ -31,7 +31,7 @@ Para executar os exercícios, alguns pré requisitos serão necessários.
 - Para os exercícios que requerem input do usuário através do terminal funcionarem corretamente, será necessário o uso do pacote **prompt-sync** que irá instalar a biblioteca. Antes de executar os exercícios, insira o comando `npm install prompt-sync` em seu terminal, assim os exercícios serão executados corretamente.
 
 
-## Como Executar os Exercícios
+###  Como Executar os Exercícios
 
 - Clone ou baixe o repositório dos exercícios.
 
