@@ -23,7 +23,7 @@ O +PraTi é um movimento social sem fins lucrativos dedicado a identificar e cap
 # Instruções de uso
 
 
-###Pré Requisitos
+### Pré Requisitos
 
 - Tenha o **Node.js** instalado em sua máquina, caso não possua, instale aravés do [site](https://nodejs.org/pt).
 
