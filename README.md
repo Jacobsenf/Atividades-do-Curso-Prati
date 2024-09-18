@@ -18,3 +18,21 @@ O +PraTi é um movimento social sem fins lucrativos dedicado a identificar e cap
 
 [![Instagram](https://i.imgur.com/7GXXik6.png)](https://www.instagram.com/maisprati/) [![Website](https://i.imgur.com/sfE08x7.png)](https://www.maisprati.com.br/) [![LinkedIn](https://i.imgur.com/JS0zkAc.png)](https://www.linkedin.com/company/maisprati/)
 
+------------------------------------------------------------------
+
+# Instruções de uso
+
+
+###Pré Requisitos
+
+- Tenha o **Node.js** instalado em sua máquina, caso não possua, instale aravés do [site](https://nodejs.org/pt).
+
+- Para os exercícios que requerem input do usuário através do terminal funcionarem corretamente, será necessário o uso do pacote **prompt-sync** que irá instalar a biblioteca. Antes de executar os exercícios, insira o comando `npm install prompt-sync` em seu terminal, assim os exercícios serão executados corretamente.
+
+- Todos os exercícios podem ser executados de uma vez pois as variáveis são diferentes e os exercícios estão todos separados por divisórias para facilitar a execução e a visualização.
+
+
+
+
+
+
