@@ -30,8 +30,16 @@ Para executar os exercícios, alguns pré requisitos serão necessários.
 
 - Para os exercícios que requerem input do usuário através do terminal funcionarem corretamente, será necessário o uso do pacote **prompt-sync** que irá instalar a biblioteca. Antes de executar os exercícios, insira o comando `npm install prompt-sync` em seu terminal, assim os exercícios serão executados corretamente.
 
-- Todos os exercícios podem ser executados de uma vez pois as variáveis são diferentes e os exercícios estão todos separados por divisórias para facilitar a execução e a visualização.
 
+## Como Executar os Exercícios
+
+- Clone ou baixe o repositório dos exercícios.
+
+- Vá até o diretório do projeto utilizando seu terminal.
+
+- Execute com o Node.js, utilizando o comando `node Lista01.js`, para outras listas, apenas mude para o número que denomina a mesma, por exemplo: `node Lista02.js`.
+
+### Todos os exercícios podem ser executados de uma vez pois as variáveis são diferentes e os exercícios estão todos separados por divisórias para facilitar a execução e a visualização.
 
 
 
