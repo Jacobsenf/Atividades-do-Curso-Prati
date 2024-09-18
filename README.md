@@ -39,7 +39,7 @@ Para executar os exercícios, alguns pré requisitos serão necessários.
 
 - Execute com o Node.js, utilizando o comando `node Lista01.js`, para outras listas, apenas mude para o número que denomina a mesma, por exemplo: `node Lista02.js`.
 
-### Todos os exercícios podem ser executados de uma vez pois as variáveis são diferentes e todos os exercícios estão separados por divisórias para facilitar a execução e a visualização.
+### Todos os exercícios podem ser executados de uma vez pois as variáveis são diferentes e os exercícios estão separados por divisórias para facilitar a execução e a visualização.
 
 
 
