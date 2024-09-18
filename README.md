@@ -28,7 +28,7 @@ Para executar os exercícios, alguns pré requisitos serão necessários.
 
 - Tenha o **Node.js** instalado em sua máquina, caso não possua, instale aravés do [site](https://nodejs.org/pt).
 
-- Para os exercícios que requerem input do usuário através do terminal funcionarem corretamente, será necessário o uso do pacote **prompt-sync** que irá instalar a biblioteca. Antes de executar os exercícios, insira o comando `npm install prompt-sync` em seu terminal, assim os exercícios serão executados corretamente.
+- Para os exercícios que requerem input do usuário através do terminal funcionarem corretamente, será necessário o uso do pacote **prompt-sync** que será instalado na biblioteca antes de executar os exercícios, para instalar, insira o comando `npm install prompt-sync` em seu terminal, assim os exercícios serão executados corretamente.
 
 
 ###  Como Executar os Exercícios
